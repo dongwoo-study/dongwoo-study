@@ -10,7 +10,8 @@
 
 ### 템플릿 및 일정
 
-- [템플릿 및 일정](./template.md)
+- [템플릿](./template.md)
+- [일정](https://maze-yacht-da0.notion.site/55341ccd125d4b11b7f156ad57de25b6?pvs=)
 
 ### 스터디 방식 참고
 
